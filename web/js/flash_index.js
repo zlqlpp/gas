@@ -1,0 +1,3 @@
+document.write('<div style="width:960px; height:400px; background-image:url(images/index0.jpg);">');
+document.write('<embed height="400" width="960" flashvars="bannerWidth=960&bannerHeight=400&bannerSID=http://img.uu1001.cn/x2/2011-09-20/09-15/2011-09-20_40f8c1ab49451033dd9afab5d5535f46_3.xml&bannerXML=&bannerLink=http%3A%2F%2F&dataSource=&bid=25260368&appSource=default" wmode="transparent" allowscriptaccess="always" quality="high" name="25260368" id="25260368" style="" src="http://img.uu1001.cn/bcv3.swf?v=20110916a" type="application/x-shockwave-flash"/></embed>');
+document.write("</div>");

@@ -1,0 +1,1 @@
+document.write("<img src='/images/index13.jpg' width='170px' />");
