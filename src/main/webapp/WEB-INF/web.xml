@@ -17,10 +17,10 @@
 		<url-pattern>/*</url-pattern>
 	</filter-mapping>
 	
-	<listener>
+<!-- 	<listener>
 		<description>spring listener</description>
 		<listener-class>org.springframework.web.context.ContextLoaderListener</listener-class>
-	</listener>
+	</listener> -->
 	
  
 	
